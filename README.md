@@ -11,6 +11,22 @@ This project recreates the classic Space Invaders experience, where the player c
 - Python
 - Pygame
 
+## 🎮 Game Controls
+
+| Key | Action |
+|---|---|
+| Left Arrow | Move player left |
+| Right Arrow | Move player right |
+| Spacebar | Shoot bullets |
+## ✨ Features
+
+- Player spaceship movement.
+- Enemy spaceship movement.
+- Shooting mechanics.
+- Multiple game sprites and visual assets.
+- Sound effects and background audio.
+- Classic arcade-style gameplay.
+
 ## 📂 Project Files
 
 - `main.py` – Main game implementation
